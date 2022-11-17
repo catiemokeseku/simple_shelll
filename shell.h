@@ -3,7 +3,7 @@
 
 /*
  * File: shell.h
- * Auth: Caleb Atiemo
+ * Auth: Caleb
  *       Jean
  */
 
